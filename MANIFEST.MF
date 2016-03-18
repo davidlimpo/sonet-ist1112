@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Instituto Superior Técnico
+Implementation-Title: pt.utl.ist.po
+Implementation-Version: 11 de Novembro de 2011
+Specified-By: Nuno Mamede
+Class-Path: pt.jar
+Specification-Vendor: Instituto Superior Técnico
+Specification-Title: Rede Social
+Created-By: José Andrade, David Limpo
+Main-Class: sonet.Manager
+

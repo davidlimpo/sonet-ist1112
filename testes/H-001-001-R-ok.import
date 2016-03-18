@@ -1,0 +1,46 @@
+PERSON|1|Luke Skywalker|wimp@resistance.org|123456789
+PERSON|2|Darth Vader|vader@imperial.net|911
+PERSON|3|Master Yoda|yoda@jedi.edu|1
+PERSON|4|Montgomery Scott|scotty@starfleet.net|987654321
+PERSON|5|James T. Kirk|kirk@starfleet.net|987654321
+PERSON|6|Jean-Luc Picard|picard@starfleet.net|987123654
+ORGANIZATION|7|Google|noreply@google.com|0
+ORGANIZATION|8|Melkor & Sauron's|recruiting@utumno.com|999
+ORGANIZATION|9|Starfleet|info@starfleet.net|999
+MESSAGE|10|1|3|cities|look at this http://bit.ly/p0XoDW
+MESSAGE|11|2|1|we have to talk|Luke, I'm your father!
+MESSAGE|12|1|2|Re: we have to talk|Nooooooooooo!!!!
+MESSAGE|13|5|4|Teleporter|Beam me up, Scotty!
+MESSAGE|14|3|1|Beam me up|Hurry, Scotty!
+NOTE|15|3|Cookies|Mix everything and apply a little Force for 30 seconds
+NOTE|16|4|Dilithium |Remember never to put them in the freezer
+NOTE|17|1| crystals|Remember always to put them in the freezer
+NOTE|18|1|Dilithium |Put them in the freezer
+NOTE|19|1| crystals|Put them out of the the freezer
+NOTE|20|1|Dilithium |Clean the freezer
+NOTE|21|2| crystals|Turn on the freezer
+NOTE|22|3|Dilithium |Turn off the freezer
+NOTE|23|3| crystals|Shut down the freezer
+NOTE|24|1|Dilithium |Buy a new the freezer
+URI|25|1|Angry Ewoks|http://jedi.edu/ewoks/
+URI|26|2|Imperial Bank|http://bank.imperial.net/
+URI|27|1|Barclays Bank|http://bank.barclays.net/
+URI|28|1|BCP Bank|http://bank.bcp.net/
+URI|29|1|Montepio Bank|http://bank.montepio.net/
+URI|30|2|Imperial Bank|http://bank.imperial.net/
+URI|31|1|Caixa Bank|http://bank.caixa.net/
+IMAGE|32|1|Tatooine1|[desert scene with two suns setting]
+IMAGE|33|1|Tatooine1|[desert scene with two suns setting]
+IMAGE|34|3|Tatooine2|[desert scene with two suns setting]
+IMAGE|35|2|Tatooine3|[desert scene with two suns setting]
+IMAGE|36|5|Tatooine4|[desert scene with two suns setting]
+IMAGE|37|1|Tatooine5|[desert scene with two suns setting]
+CONNECTION|1|2|1|0
+CONNECTION|1|4|1|1
+CONNECTION|1|3|1|1
+CONNECTION|1|6|1|1
+CONNECTION|1|5|1|1
+CONNECTION|1|7|1|1
+CONNECTION|1|8|1|1
+CONNECTION|4|5|1|1
+CONNECTION|4|6|1|1

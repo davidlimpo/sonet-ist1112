@@ -1,0 +1,23 @@
+PERSON|1|Luke Skywalker|wimp@resistance.org|123456789
+PERSON|2|Darth Vader|vader@imperial.net|911
+PERSON|3|Master Yoda|yoda@jedi.edu|1
+PERSON|4|Montgomery Scott|scotty@starfleet.net|987654321
+PERSON|5|James T. Kirk|kirk@starfleet.net|987654321
+PERSON|6|Jean-Luc Picard|picard@starfleet.net|987123654
+ORGANIZATION|7|Google|noreply@google.com|0
+ORGANIZATION|8|Melkor & Sauron's|recruiting@utumno.com|999
+ORGANIZATION|9|Starfleet|info@starfleet.net|999
+MESSAGE|10|1|3|cities|look at this http://bit.ly/p0XoDW
+MESSAGE|11|2|1|we have to talk|Luke, I'm your father!
+MESSAGE|12|1|2|Re: we have to talk|Nooooooooooo!!!!
+MESSAGE|13|5|4|Teleporter|Beam me up, Scotty!
+MESSAGE|14|6|4|Teleporter|Beam me up, Scotty!
+NOTE|15|3|Cookies|Mix everything and apply a little Force for 30 seconds
+NOTE|16|4|Dilithium crystals|Remember never to put them in the freezer
+URI|17|1|Angry Ewoks|http://jedi.edu/ewoks/
+URI|18|2|Imperial Bank|http://bank.imperial.net/
+IMAGE|19|1|Tatooine|[desert scene with two suns setting]
+CONNECTION|1|2|1|0
+CONNECTION|1|3|1|1
+CONNECTION|4|5|1|1
+CONNECTION|4|6|1|1

@@ -1,0 +1,42 @@
+Introduza o identificador do agente inspeccionador: Menu de Navegação
+1 - Visitar agente
+0 - Sair
+Escolha uma opção: Identificador do agente a inspeccionar: Inspecção do agente 1
+1 - Visualizar propriedades
+2 - Editar perfil do agente
+3 - Proteger perfil do agente
+4 - Desproteger perfil do agente
+5 - Menu de publicações
+6 - Menu de mensagens
+7 - Menu de ligações
+0 - Sair
+Escolha uma opção: Gestão de Ligações
+1 - Listar ligações
+2 - Pedido de ligação
+3 - Aceitar ligações
+4 - Recusar ligações
+5 - Remover ligações
+0 - Sair
+Escolha uma opção: CONNECTION|2|0
+CONNECTION|3|1
+CONNECTION|6|1
+Gestão de Ligações
+1 - Listar ligações
+2 - Pedido de ligação
+3 - Aceitar ligações
+4 - Recusar ligações
+5 - Remover ligações
+0 - Sair
+Escolha uma opção: Inspecção do agente 1
+1 - Visualizar propriedades
+2 - Editar perfil do agente
+3 - Proteger perfil do agente
+4 - Desproteger perfil do agente
+5 - Menu de publicações
+6 - Menu de mensagens
+7 - Menu de ligações
+0 - Sair
+Escolha uma opção: Menu de Navegação
+1 - Visitar agente
+0 - Sair
+Escolha uma opção: 
