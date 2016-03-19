@@ -1,8 +1,9 @@
-sonet: Social Network Manager
+Social Network Manager
 
 Source code in Java.
 
 Run:
 
 make
+
 make run
